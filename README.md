@@ -1,2 +1,3 @@
 # FinalTestAutomationProject1
-kkgkgk
+Для запуска тестов необходимо установить библиотеку pytest, pytest-selenium и selenium.
+
